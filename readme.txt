@@ -1,1 +1,1 @@
-Implementation of a simple FTP client and server
+Implementation of a simple FTP client and server.
